@@ -1,2 +1,2 @@
 # trlee2.github.io
-Persona GitHub Page
+Personal GitHub Page
